@@ -32,7 +32,7 @@ This section lists the major frameworks/libraries used in your project.
 - Git
 - Html
 - Virtual Studio Code
-- AI models to fix my behavioral issues and some code (hi GPT)
+
 ## Getting Started
 
 This is how you can get the project up and running on your local machine: open Gpt and ask it to scrape my page. Or study html. Or both.
