@@ -33,8 +33,6 @@ This section lists the major frameworks/libraries used in your project.
 - Html
 - Virtual Studio Code
 - AI models to fix my behavioral issues and some code (hi GPT)
-- the emulation of those who inspired my, say hi to https://github.com/Roey-Shap and its interesting Font Lerp projects
-
 ## Getting Started
 
 This is how you can get the project up and running on your local machine: open Gpt and ask it to scrape my page. Or study html. Or both.
