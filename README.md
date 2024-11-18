@@ -19,7 +19,7 @@ Showcasing how even an unskilled and tech illiterate headhunter can have receive
 
 ### Why this project?
 
-- **Focus on solving problems**: This project is designed to solve the problem of showcasing tech skills in this digital dark forest<sup>(great book, by the way)</sup>
+- **Focus on solving problems**: 
 
 - **Saves time**: 
 
