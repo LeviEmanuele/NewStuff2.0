@@ -4,7 +4,7 @@
 
 Welcome to my personal project, if you did not have checked yet my personal profile here its: https://leviemanuele.github.io/A-spiffy-personal-background.github.io/ 
 
-A toll for HR
+A tool for HR
 
 This project is aimed at simplifying through automation the job of headhunting qualified personel by mean of a simple application.
 
